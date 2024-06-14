@@ -1,7 +1,6 @@
-:root{
-    background-color: #ebecee;
+:root {
+    --cor-de-fundo: #EBECEE;
 }
-
-.h1 {
+h1 {
     background-color: white;
 }
