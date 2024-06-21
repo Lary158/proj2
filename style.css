@@ -2,7 +2,9 @@
 
 :root {
     --cor-de-fundo: #EBECEE;
+    --branco: #FFFFFF;
 }
+
 h1 {
     background-color: white;
 }
