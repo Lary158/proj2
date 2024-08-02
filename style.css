@@ -4,6 +4,7 @@
 :root {
     --cor-de-fundo: #EBECEE;
     --branco: #FFFFFF;
+    --laranja: #eb9b00;
 }
 
 body {
@@ -13,5 +14,3 @@ body {
 h1 {
     background-color: white;
 }
-
-    
