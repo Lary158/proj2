@@ -57,7 +57,7 @@
 .container__botao {
     display: none;
 }
-  
+
 @media screen and (min-width: 1024px) {
 
     .container_titulo,
@@ -73,3 +73,5 @@
     .container_titulo--negrito {
         font-weight: 700;
     }
+    
+}
