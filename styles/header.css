@@ -68,6 +68,7 @@
     
     .container_titulo {
         font-weight: 400;
+        display: block;
     }
     
     .container_titulo--negrito {
