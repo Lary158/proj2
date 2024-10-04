@@ -79,7 +79,6 @@
 
 .opções {
     display: flex;
-    display: none
 }
 
 .opções_item {
@@ -90,4 +89,8 @@
 .opções__link {
     text-decoration: none
     color: var(--preto)
+}
+
+.opções {
+    display: none
 }
