@@ -1,3 +1,4 @@
+
 .banner {
     background: var(--azul-degrade);
     color: var(--branco);
@@ -48,14 +49,20 @@
     }
 }
 
+
+
 @media screen and (min-width: 1728px) {
-    .banner_pesquisa {
+    .banner__pesquisa {
         width: 35%;
     }
-    .banner_pesquisa:: placeholder {
+
+    .banner {
+        padding: 6em 0;
+    }
+
+    .banner__pesquisa::placeholder {
         background-position: 12em;
     }
-    .banner {
-        padding: 5em 0;
-    }
+
+
 }
