@@ -8,7 +8,7 @@
     background-position: center;
 }
 
-.container_botao:checked~.container__rotulo>.cabeçalho__menu-hamburguer {
+.container__botao:checked~.container__rotulo>.cabeçalho__menu-hamburguer {
     background-image: url("../img//MenuAberto.svg");
   }
   
