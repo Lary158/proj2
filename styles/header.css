@@ -9,8 +9,11 @@
 }
 
 .container_botao:checked~.container__rotulo>.cabeçalho__menu-hamburguer {
-    background-image: url("../img/Menu Aberto.png");
+    background-image: url("../img//Menu Aberto.svg");
+  }
   
+  .container__botao:checked~.container__rotulo {
+    background: var(--azul-degrade);
   }
 
 .cabeçalho {
